@@ -1,6 +1,6 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 set -e
 
-apt-get update
-apt-get install mysql-client
+sudo apt-get update
+sudo apt-get install mysql-client
